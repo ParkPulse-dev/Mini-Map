@@ -1,4 +1,4 @@
-# MiniMapTest
+# Mini-Map
 
 Mini-map assignment, Game Development course.
 
